@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi! My name is Alvaro Velasco. Im mainly learning python and mainly I develop tools with Python
+Im a curious man, every day I want to learn something new.
+My interests are football, data analytics, cloud computing and developed simple apps.
+Since January 2021 Im interested in learning **C# and OpenCV**, but...KEEP CALM! I have **many things to do before**...more small projects for example
 
-<!--
-**84M800/84M800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hola! Me llamo Alvaro Velasco, la mayoría de mis proyectos son en Python.
+Soy una persona curiosa, cada día intento aprender algo nuevo, en cualquiera de las facetas de la vida.
+Me interesan el fútbol, la analítica de datos, cloud computing y desarrollar herramientas "de jueguete" pero que sean funcionales con Python.
+Desde Enero de 2021 estoy especialmente interesado en aprender **C# y OpenCV** peeeeeeero antes tengo que hacer muchas otras cosas, como por ejemplo **más proyectos.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Something about me
+- 🔭 I’m currently working on Federacion Futbol Castilla y Leon
+- 🌱 I’m currently learning Azure AZ-900
+- 👯 I’m looking to collaborate on Python project`s
+- 🤔 I’m looking for help with OpenCV
+- 💬 Ask me about football, Tkinter, Flask, Nacsport, Sports analytics....
+- 📫 How to reach me: alvarovelascoalonso@gmail.com
+
